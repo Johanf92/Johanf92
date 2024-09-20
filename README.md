@@ -15,12 +15,12 @@
 ### About Me
 I'm a **Frontend Development** student passionate about building beautiful, responsive, and user-friendly web applications. With a foundation in **HTML**, **CSS**, and **JavaScript**, I enjoy turning ideas into reality with clean, efficient code and thoughtful design principles.
 
-- 🔭 I’m currently working on: **My personal portfolio** to showcase my projects and skills.
-- 🌱 I’m currently learning: **Advanced JavaScript** (via Noroff & Udemy courses).
-- 💼 I have experience using: **WordPress, REST API, UX/UI Design, Version Control (Git), Deployment (Netlify)**, and more.
-- 🚀 Tools and technologies I work with: **VS Code, Figma, Adobe XD, Bootstrap, Tailwind, SASS, and more**.
-- 🌐 I deploy my projects on: **Netlify** and manage repositories here on GitHub.
-- 📫 How to reach me: **[Johan.frederic@outlook.com](mailto:Johan.frederic@outlook.com)**
+-  I’m currently working on: **My personal portfolio** to showcase my projects and skills.
+-  I’m currently learning: **Advanced JavaScript** (via Noroff & Udemy courses).
+-  I have experience using: **WordPress, REST API, UX/UI Design, Version Control (Git), Deployment (Netlify)**, and more.
+-  Tools and technologies I work with: **VS Code, Figma, Adobe XD, Bootstrap, Tailwind, SASS, and more**.
+-  I deploy my projects on: **Netlify** **one.com** and manage repositories here on GitHub.
+-  How to reach me: **[Johan.frederic@outlook.com](mailto:Johan.frederic@outlook.com)**
 
 ---
 
@@ -50,12 +50,12 @@ I'm a **Frontend Development** student passionate about building beautiful, resp
 - **[Portfolio Website](#)**: A personal portfolio to showcase my work, skills, and projects (Deployed on Netlify).
 - **[Project Name](#)**: Description of the project. (Link to the repository or live demo).
 
-Check out more of my projects on my [GitHub profile](https://github.com/zarden92?tab=repositories).
+Check out more of my projects on my [GitHub profile](https://github.com/johanf92?tab=repositories).
 
 ---
 
 ### Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://codepen.io/zarden92" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/johanfredericaashaug" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
