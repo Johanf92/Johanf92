@@ -44,7 +44,7 @@ I'm a **Frontend Development** student passionate about building beautiful, resp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30" style="padding-right: 10px;"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30" style="padding-right: 10px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" style="padding-right: 10px;"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" style="padding-right: 10px;"/> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/XD.svg" alt="xd" width="30" height="30" style="padding-right: 10px;"/> 
 </p>
 
 
