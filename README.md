@@ -16,7 +16,7 @@
 I'm a **Frontend Development** student passionate about building beautiful, responsive, and user-friendly web applications. With a foundation in **HTML**, **CSS**, and **JavaScript**, I enjoy turning ideas into reality with clean, efficient code and thoughtful design principles.
 
 -  I’m currently working on: **My personal portfolio** to showcase my projects and skills.
--  I’m currently learning: **Advanced JavaScript** (via Noroff & Udemy courses).
+-  I’m currently learning: **React** (via Noroff & Udemy courses).
 -  I have experience using: **WordPress, REST API, UX/UI Design, Version Control (Git), Deployment (Netlify)**, and more.
 -  Tools and technologies I work with: **VS Code, Figma, Adobe XD, Bootstrap, Tailwind, SASS, and more**.
 -  I deploy my projects on: **Netlify** **one.com** and manage repositories here on GitHub.
